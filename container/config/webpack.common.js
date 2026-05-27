@@ -1,5 +1,4 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const dummy = "";
 
 module.exports = {
   module: {
